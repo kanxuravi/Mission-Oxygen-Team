@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Mission Oxygen Team</string>
+    <string name="html">
+        <![CDATA[
+
+
+        <h1><u>Our Mission</u></h1>
+        <p>Robotics Association of Nepal [RAN], Biotechnology Society of Nepal [BSN] and Biomedical Engineering Foundation Nepal [BEFN] are working together as a Mission Oxygen Team [MOT] with Nepal Biomedical Association [NBA] as a supporting organization where we are recruiting Engineers with Biomedical background or have previously worked on Biomedical devices to install, operate, maintain and repair the oxygen facilities all over Nepal as we three organization together would mobilize the members and other interested volunteers to solve these existing challenge.</p>
+        <br>
+        <h1><u>Objectives</u></h1>
+        <ol>
+        <li>To create a digital database of the Oxygen facilities existing in the Nepal Healthcare fraternity.</li>
+        <li>To track and real-time monitoring of the oxygen-based facilities in Nepal.</li>
+        <li>To create a pool of biomedical tech volunteers in different provinces of Nepal.</li>
+        <li>To mobilize the pool of tech volunteers to install, operate, maintain and repair the medical equipment based on a request from the different facilities.</li>
+        <li>To support the Nepal Government and medical with engineering and tech skills in this time of Pandemic.</li>
+        <li>Support the Nepal Government and other organizations with the right information while buying/purchasing the Oxygen Equipments.</li>
+        <li>To research and development regarding the usefulness of different companies which manufacture different biomedical instruments (Oxygen Concentrator, Oxygen Plant)</li>
+        </ol>
+        <br>
+
+
+        <h1><u>Outcomes</u></h1>
+        <ul>
+        <li>Quick repair and maintenance of the oxygen facilities throughout Nepal.</li>
+        <li>Critical assessment of Nepal\'s capacity through data with Oxygen facilities to fight against the Pandemic.</li>
+        <li>Timely installation and operation of Oxygen Facilities save lives.</li>
+        <li>Healthcare Infrastructure situational analysis and early preparedness for third and fourth wave.</li>
+        </ul>
+        <br>
+
+        <h1><u>Lead Organizations</u></h1>
+        <ul><b>
+        <li>Robotics Association of Nepal [RAN]</li>
+        <li>Biotechnology Society of Nepal [BSN]</li>
+        <li>Biomedical Engineering Foundation Nepal [BEFN]</li></b>
+        </ul>
+        <br>
+
+        <h1><u>Supporting Organizations</u></h1>
+        <ul><b>
+        <li>Nepal Biomedical Association</li>
+        <li>COVID Alliance</li>
+        <li>Nepal Ventilators Bank</li>
+        <li>FNCCI Operation COVID Relief Nepal</li></b>
+        </ul>
+        <br>
+
+        <h1><u>Partners</u></h1>
+        <ul><b>
+        <li>Covidconnectnepal</li>
+        <li>Hospitalbeds Nepal</li>
+        <li>Kathmandu Valley College</li>
+        <li>Diyalo Foundation</li>
+        <li>National Innovation Centre</li></b>
+        </ul>
+        <br>
+
+
+
+
+
+        ]]>
+    </string>
+</resources>
